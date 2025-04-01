@@ -1,0 +1,12 @@
+.isign-details-block {
+    display: none;
+}
+.isign-signers-block {
+    display: none;
+}
+#pdf-frame {
+    height: 1200px;
+}
+.check-code .signing-code {
+    font-size: 100px;
+}
