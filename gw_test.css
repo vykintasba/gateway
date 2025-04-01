@@ -13,3 +13,6 @@
 .action-bar__notification {
     display: none;
 }
+.sequence-result-listing {
+    display: none;
+}
