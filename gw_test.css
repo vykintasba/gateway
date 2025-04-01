@@ -1,5 +1,5 @@
 .isign-details-block {
-      display: inline-block;
+  display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
@@ -7,7 +7,7 @@
   background-color: yellow; 
 }
 .isign-signers-block {
-      display: inline-block;
+  display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
@@ -15,14 +15,24 @@
   background-color: yellow; 
 }
 #pdf-frame {
-    height: 1200px;
+    height: 12000px;
 }
 .check-code .signing-code {
-    font-size: 100px;
+    font-size: 1000px;
 }
 .action-bar__notification {
-    display: none;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
 }
 .sequence-result-listing {
-    display: none;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
 }
