@@ -10,3 +10,6 @@
 .check-code .signing-code {
     font-size: 100px;
 }
+.action-bar__notification {
+    display: none;
+}
