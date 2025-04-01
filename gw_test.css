@@ -1,5 +1,4 @@
 .isign-details-block {
-  display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
@@ -7,7 +6,6 @@
   background-color: yellow; 
 }
 .isign-signers-block {
-  display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
@@ -21,7 +19,6 @@
     font-size: 1000px;
 }
 .action-bar__notification {
-  display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
@@ -29,7 +26,6 @@
   background-color: yellow; 
 }
 .sequence-result-listing {
-  display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
