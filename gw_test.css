@@ -1,8 +1,18 @@
 .isign-details-block {
-    display: none;
+      display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
 }
 .isign-signers-block {
-    display: none;
+      display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
 }
 #pdf-frame {
     height: 1200px;
